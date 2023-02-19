@@ -20,10 +20,10 @@ We don't need people who don't know the difference between ”a literal translat
 
 My Localization Works
 
- https://github.com/lifegpc/bili
- https://github.com/JiJiDown
- https://github.com/Dimillian/IceCubesApp
- https://github.com/shensven/Morphling
+ https://github.com/lifegpc/bili <br>
+ https://github.com/JiJiDown <br>
+ https://github.com/Dimillian/IceCubesApp <br>
+ https://github.com/shensven/Morphling <br>
 
 
 <!--
