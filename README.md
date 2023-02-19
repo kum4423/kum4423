@@ -24,7 +24,7 @@ My Localization Works
  https://github.com/JiJiDown <br>
  https://github.com/Dimillian/IceCubesApp <br>
  https://github.com/shensven/Morphling <br>
-ANd more...
+And more...
 
 <!--
 **kum4423/kum4423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
