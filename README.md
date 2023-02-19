@@ -18,11 +18,12 @@ We don't need people who don't know the difference between ”a literal translat
 </p>
 
 
+My Localization Works
 
-
-
-
-
+ https://github.com/lifegpc/bili
+ https://github.com/JiJiDown
+ https://github.com/Dimillian/IceCubesApp
+ https://github.com/shensven/Morphling
 
 
 <!--
