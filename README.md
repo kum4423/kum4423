@@ -24,6 +24,7 @@ My Localization Works
  https://github.com/JiJiDown <br>
  https://github.com/Dimillian/IceCubesApp <br>
  https://github.com/shensven/Morphling <br>
+ https://github.com/PixelOS-AOSP <br>
 And more...
 
 <!--
