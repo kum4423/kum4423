@@ -2,7 +2,7 @@
 
 If you were born and raised in Japan and can only speak Japanese properly, I have no time for you.
 
-We don't need people who don't know the difference between ”a literal translation” and ”an implied translation”, who don't consider ”UX and nuance”, and who only care about UI in ”localization”.
+I don't need people who don't know the difference between ”a literal translation” and ”an implied translation”, who don't consider ”UX and nuance”, and who only care about UI in ”localization”.
 
 
 <p align="left">
