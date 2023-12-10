@@ -26,6 +26,7 @@ Localization of Android ROMs language settings
 
  https://github.com/PixelOS-AOSP <br>
  https://github.com/Project-Elixir <br>
+ https://github.com/crdroidandroid <br>
 And more...
 
 <!--
