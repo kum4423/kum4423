@@ -23,6 +23,8 @@ My Localization Works
  https://github.com/shensven/Morphling <br>
  https://github.com/aandrew-me/ytDownloader <br>
 
+ https://xdaforums.com/t/app-aggregator-news-rss-feed-reader-free-no-ads-2024.4652685/ <br>
+
 Localization of Android ROMs language settings
 
  https://github.com/PixelOS-AOSP <br>
